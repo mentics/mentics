@@ -1,11 +1,7 @@
 ## Welcome
 
-I'm currently working on a project to apply a machine learning model against a rolling window of streaming time series data. It streams data into RedPanda, and then the data is continually processed by separate inference, labeling, and training processors. It's written in Rust using the Burn machine learning library.
-[online-ml](https://github.com/mentics-online-ml/polyrepo)
-
-I've used Julia and fluxml.ai for some years, but thought I would try out Rust for this project.
-
-I'm currently looking for my next full time opportunity, so feel free to reach out on [LinkedIn](https://www.linkedin.com/in/jshellman/) to me if you are looking for a capable software engineer.
+I like to think. I write code. And other things.
+[LinkedIn](https://www.linkedin.com/in/jshellman/)
 
 <!--
 **mentics/mentics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

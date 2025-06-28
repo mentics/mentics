@@ -1,6 +1,6 @@
 ## Welcome
 
-I tame complexity for fun with elegant solutions. I write code and tell AI's how to write code. And other things.
+I tame complexity for fun with elegant solutions. I write code and tell Agents how to write code. And other things.
 [LinkedIn](https://www.linkedin.com/in/jshellman/)
 
 <!--
